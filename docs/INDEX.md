@@ -2,6 +2,10 @@
 
 This directory documents Wicofe userspace audio services, APIs, and integration.
 
+## Architecture and design
+
+- [Audio subsystem architecture 0.1](AUDIO_SUBSYSTEM_ARCHITECTURE_0.1.md) — draft device/endpoint model, stream lifecycle, mixing, direct playback, bit-perfect requirements, clocking, latency, security and validation.
+
 ## Scope
 - Audio device discovery and policy.
 - Routing, mixing, stream lifecycle, and application-facing APIs.
